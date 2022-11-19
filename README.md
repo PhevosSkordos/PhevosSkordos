@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhevosSkordos
 - 👀 I’m interested in Utilizing Cloud and on premises technology the best way possible
-- 🌱 I’m currently learning Devops techniques, sppecifically kubernetes in AWS and CI/CD pipelines
+- 🌱 I’m currently learning Devops techniques, specifically Docker and Kubernetes.
 - 💞️ I’m looking to collaborate on projects related to Data Analysis by designing databases, ETL pipelines, and containerize the apps for easier deployment.
 - 📫 You can reach me on skordos.phevos@gmail.com or via  DM on https://www.linkedin.com/in/phevos-skordos-018896145/
 
